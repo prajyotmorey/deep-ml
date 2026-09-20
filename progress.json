@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:10:47.264Z",
+  "generated_at": "2026-09-20T10:10:48.716Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -78,6 +78,32 @@
       "last_pushed_at": "2026-07-07T11:22:23.185Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-07-09T10:00:55.959Z",
+      "last_pushed_at": "2026-07-09T10:00:55.959Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-07-09T10:18:03.496Z",
+      "last_pushed_at": "2026-07-09T10:18:03.496Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
