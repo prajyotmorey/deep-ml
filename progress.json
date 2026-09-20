@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:10:53.021Z",
+  "generated_at": "2026-09-20T10:10:54.503Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -143,6 +143,28 @@
       "last_pushed_at": "2026-08-07T14:39:18.102Z",
       "language": "python",
       "lines": 23
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-08T06:22:30.368Z",
+      "last_pushed_at": "2026-08-08T06:22:30.368Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-08-08T06:28:19.378Z",
+      "last_pushed_at": "2026-08-08T06:28:19.378Z"
     }
   }
 }

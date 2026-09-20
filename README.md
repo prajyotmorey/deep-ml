@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 8 problems · 3 labs · 0 math
+**13** solved · 8 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-08-07 | [solution](labs/0009-design-your-own-activation-function) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-08-05 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-08-06 | [solution](labs/0010-design-your-own-attention-mechanism) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-08 | [solution](math/0001-derivatives-and-gradients) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-08 | [solution](math/0030-ml-workflow-basics) |
 
 ---
 
